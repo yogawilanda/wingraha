@@ -15,7 +15,7 @@ function send_handle() {
     let name = document.getElementById("name").value;
 
     var win = window.open(
-        `https://wa.me/${6281357628869}?text=Halo,%0aSaya%20${name}%20dapat%20info%20dari%20website%20ibu%20Winarti,%20ingin%20bertanya mengenai%20${msg}`,
+        `https://wa.me/${6281259990179}?text=Halo,%0aSaya%20${name}%20dapat%20info%20dari%20website%20ibu%20Winarti,%20ingin%20bertanya mengenai%20${msg}`,
         "_blank"
     );
     // win.focus();
